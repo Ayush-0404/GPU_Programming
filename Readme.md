@@ -13,7 +13,7 @@ reports per-image GPU timing and aggregate statistics.
 
 ## Execution Proof
 
-![Build Output](Execution_Proof/Execution_terminal_output.png.png)
+![Build Output](Execution_Proof/Execution_terminal_output.png)
 
 ![Execution Log](Execution_Proof/Input_files.png)
 
