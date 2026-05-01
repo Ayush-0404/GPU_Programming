@@ -1,4 +1,4 @@
-# CUDA Batch Image Processor
+# GPU-Accelerated Image Pipeline: Parallel Pixel Processing at Scale
 
 A GPU-accelerated batch image processing tool that converts RGB images to grayscale
 and optionally applies a box blur filter. Built with custom CUDA kernels for
