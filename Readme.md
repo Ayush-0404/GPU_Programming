@@ -11,6 +11,13 @@ entirely on the GPU. Each image is loaded, transferred to device memory, process
 through one or two CUDA kernels, and written back as a grayscale PNG. The tool
 reports per-image GPU timing and aggregate statistics.
 
+## Execution Proof
+
+![Build Output](Execution_Proof/Execution_terminal_output.png.png)
+![Execution Log](Execution_Proof/Input_files.png)
+![Sample Output](Execution_Proof/output_files.png)
+
+
 ### GPU Kernels
 
 1. **RgbToGrayscaleKernel** — Converts each pixel from RGB to grayscale using
